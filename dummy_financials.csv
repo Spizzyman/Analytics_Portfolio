@@ -1,0 +1,501 @@
+sale_date,region,product_line,units_sold,revenue_ngn
+1/1/2025,Ibadan,Tomato Paste,418,165402.67
+1/2/2025,Ibadan,Salt,313,136781.9
+1/3/2025,Abuja,Tomato Paste,216,117992.72
+1/4/2025,Ibadan,Tomato Paste,485,117459.92
+1/5/2025,Kano,Salt,443,151271.06
+1/6/2025,Lagos,Salt,171,137784
+1/7/2025,Kano,Tomato Paste,494,96353.58
+1/8/2025,Lagos,Seasoning,163,162823.53
+1/9/2025,Lagos,Tomato Paste,304,119537.76
+1/10/2025,Kano,Tomato Paste,308,120991.87
+1/11/2025,Kano,Tomato Paste,171,148959.35
+1/12/2025,Kano,Tomato Paste,376,127497.11
+1/13/2025,Kano,Salt,373,153062.64
+1/14/2025,Abuja,Tomato Paste,419,199336.52
+1/15/2025,Ibadan,Seasoning,437,140523.56
+1/16/2025,Lagos,Salt,465,123510.52
+1/17/2025,Kano,Seasoning,194,154537.67
+1/18/2025,Kano,Seasoning,265,130619.21
+1/19/2025,Kano,Seasoning,131,150593.79
+1/20/2025,Abuja,Seasoning,110,157890.9
+1/21/2025,Kano,Salt,400,149120.08
+1/22/2025,Kano,Salt,316,151413.97
+1/23/2025,Kano,Seasoning,388,154802.26
+1/24/2025,Ibadan,Seasoning,201,189927.82
+1/25/2025,Abuja,Salt,491,143677.02
+1/26/2025,Kano,Salt,366,153185.86
+1/27/2025,Lagos,Salt,313,171671.23
+1/28/2025,Lagos,Tomato Paste,278,161775.92
+1/29/2025,Lagos,Tomato Paste,187,141044.77
+1/30/2025,Abuja,Tomato Paste,140,172546.59
+1/31/2025,Abuja,Seasoning,175,128218.83
+2/1/2025,Lagos,Tomato Paste,476,144331.26
+2/2/2025,Kano,Seasoning,145,130722.84
+2/3/2025,Abuja,Seasoning,259,164404.36
+2/4/2025,Lagos,Tomato Paste,179,179739.99
+2/5/2025,Lagos,Seasoning,409,155583.4
+2/6/2025,Kano,Tomato Paste,185,151881.65
+2/7/2025,Ibadan,Tomato Paste,191,128124.78
+2/8/2025,Abuja,Salt,247,132436.22
+2/9/2025,Kano,Tomato Paste,260,120168.5
+2/10/2025,Lagos,Salt,301,95582.97
+2/11/2025,Lagos,Tomato Paste,341,140224.15
+2/12/2025,Kano,Tomato Paste,452,142547.37
+2/13/2025,Abuja,Salt,101,204321.06
+2/14/2025,Ibadan,Salt,324,189070.34
+2/15/2025,Ibadan,Tomato Paste,388,163891.01
+2/16/2025,Lagos,Seasoning,332,202111.93
+2/17/2025,Abuja,Salt,176,184772.59
+2/18/2025,Ibadan,Seasoning,215,99810.8
+2/19/2025,Abuja,Seasoning,253,176686.4
+2/20/2025,Abuja,Seasoning,202,167786.36
+2/21/2025,Lagos,Salt,293,142765.55
+2/22/2025,Ibadan,Seasoning,265,114619.94
+2/23/2025,Kano,Salt,458,164885.03
+2/24/2025,Lagos,Seasoning,189,98021.81
+2/25/2025,Ibadan,Tomato Paste,273,149463.13
+2/26/2025,Ibadan,Tomato Paste,221,134572.74
+2/27/2025,Ibadan,Salt,242,118528.95
+2/28/2025,Ibadan,Tomato Paste,205,179720.03
+3/1/2025,Ibadan,Tomato Paste,474,148967.29
+3/2/2025,Abuja,Seasoning,404,154349.16
+3/3/2025,Lagos,Salt,459,172696.8
+3/4/2025,Abuja,Seasoning,416,149780.24
+3/5/2025,Kano,Seasoning,222,161285.28
+3/6/2025,Ibadan,Seasoning,489,170396.29
+3/7/2025,Lagos,Seasoning,108,164168.9
+3/8/2025,Ibadan,Seasoning,361,157149.5
+3/9/2025,Lagos,Seasoning,172,194577.82
+3/10/2025,Abuja,Seasoning,458,181049.26
+3/11/2025,Lagos,Salt,322,147855.92
+3/12/2025,Kano,Tomato Paste,140,127257.68
+3/13/2025,Kano,Seasoning,469,165965.59
+3/14/2025,Lagos,Seasoning,303,155396.52
+3/15/2025,Lagos,Seasoning,363,192724.89
+3/16/2025,Lagos,Seasoning,427,174687.33
+3/17/2025,Lagos,Seasoning,277,169105.11
+3/18/2025,Kano,Seasoning,447,150323.79
+3/19/2025,Ibadan,Tomato Paste,417,128107.53
+3/20/2025,Lagos,Tomato Paste,183,145050.93
+3/21/2025,Lagos,Seasoning,417,161920.7
+3/22/2025,Kano,Tomato Paste,210,106760.5
+3/23/2025,Kano,Salt,350,181042.85
+3/24/2025,Abuja,Seasoning,482,201676.1
+3/25/2025,Lagos,Salt,106,101376.52
+3/26/2025,Abuja,Salt,183,114994.61
+3/27/2025,Kano,Seasoning,307,155741.56
+3/28/2025,Kano,Tomato Paste,487,135435.48
+3/29/2025,Ibadan,Salt,489,156522.66
+3/30/2025,Lagos,Seasoning,413,148208.15
+3/31/2025,Abuja,Salt,121,124404.54
+4/1/2025,Kano,Salt,482,182210.16
+4/2/2025,Kano,Salt,102,161612.92
+4/3/2025,Abuja,Salt,226,136006.45
+4/4/2025,Ibadan,Tomato Paste,396,187625.63
+4/5/2025,Kano,Salt,287,137289.85
+4/6/2025,Lagos,Salt,461,118953.99
+4/7/2025,Kano,Salt,113,154587.8
+4/8/2025,Lagos,Tomato Paste,111,158828.94
+4/9/2025,Abuja,Salt,186,163297.92
+4/10/2025,Lagos,Salt,111,167408.78
+4/11/2025,Abuja,Tomato Paste,496,162903.12
+4/12/2025,Lagos,Tomato Paste,124,161887.34
+4/13/2025,Abuja,Tomato Paste,400,135656.15
+4/14/2025,Lagos,Salt,342,132981.39
+4/15/2025,Ibadan,Tomato Paste,221,168559.12
+4/16/2025,Lagos,Tomato Paste,246,156086.41
+4/17/2025,Lagos,Salt,154,170506.14
+4/18/2025,Ibadan,Tomato Paste,337,107318.07
+4/19/2025,Kano,Salt,455,137480.34
+4/20/2025,Kano,Seasoning,272,197675.47
+4/21/2025,Lagos,Tomato Paste,491,163813.33
+4/22/2025,Ibadan,Seasoning,320,157388.76
+4/23/2025,Lagos,Salt,218,167698.11
+4/24/2025,Abuja,Tomato Paste,408,205211.26
+4/25/2025,Abuja,Salt,282,199951.24
+4/26/2025,Lagos,Seasoning,387,110511.98
+4/27/2025,Kano,Salt,406,119737.47
+4/28/2025,Kano,Tomato Paste,399,109664.73
+4/29/2025,Lagos,Tomato Paste,181,131322.3
+4/30/2025,Lagos,Seasoning,310,151372.98
+5/1/2025,Abuja,Salt,249,156050.38
+5/2/2025,Kano,Tomato Paste,136,111738.03
+5/3/2025,Lagos,Seasoning,451,103316.2
+5/4/2025,Abuja,Tomato Paste,411,130880.22
+5/5/2025,Kano,Tomato Paste,460,172904.28
+5/6/2025,Ibadan,Salt,158,177259.07
+5/7/2025,Abuja,Tomato Paste,230,192645.62
+5/8/2025,Kano,Salt,301,149191.74
+5/9/2025,Kano,Tomato Paste,342,170703.84
+5/10/2025,Abuja,Seasoning,134,175247.37
+5/11/2025,Ibadan,Tomato Paste,192,137578.52
+5/12/2025,Abuja,Salt,306,159696.12
+5/13/2025,Kano,Salt,452,166467.63
+5/14/2025,Lagos,Seasoning,490,127271.06
+5/15/2025,Lagos,Tomato Paste,431,191052.4
+5/16/2025,Abuja,Tomato Paste,404,149029.69
+5/17/2025,Kano,Seasoning,449,152175.88
+5/18/2025,Lagos,Tomato Paste,312,126316.47
+5/19/2025,Kano,Tomato Paste,258,130514.35
+5/20/2025,Abuja,Salt,123,95087.13
+5/21/2025,Lagos,Tomato Paste,392,151378.9
+5/22/2025,Kano,Tomato Paste,103,212642.23
+5/23/2025,Lagos,Seasoning,319,124534.51
+5/24/2025,Abuja,Seasoning,463,224404.92
+5/25/2025,Kano,Salt,481,185356.28
+5/26/2025,Lagos,Tomato Paste,119,138160.28
+5/27/2025,Abuja,Tomato Paste,251,150681.62
+5/28/2025,Lagos,Tomato Paste,149,146622.49
+5/29/2025,Lagos,Salt,276,192654.1
+5/30/2025,Ibadan,Salt,195,162925.39
+5/31/2025,Ibadan,Seasoning,204,179549.35
+6/1/2025,Abuja,Salt,349,158954.3
+6/2/2025,Ibadan,Tomato Paste,216,147200.69
+6/3/2025,Abuja,Tomato Paste,453,158160.58
+6/4/2025,Ibadan,Salt,327,139826.39
+6/5/2025,Lagos,Tomato Paste,165,113694.9
+6/6/2025,Abuja,Tomato Paste,434,170342.21
+6/7/2025,Abuja,Salt,361,112470.89
+6/8/2025,Lagos,Salt,394,143279.15
+6/9/2025,Abuja,Tomato Paste,342,139003.39
+6/10/2025,Abuja,Tomato Paste,470,166083.85
+6/11/2025,Ibadan,Tomato Paste,285,189117.61
+6/12/2025,Abuja,Seasoning,345,180124.27
+6/13/2025,Kano,Seasoning,224,166810.63
+6/14/2025,Lagos,Seasoning,367,134253.21
+6/15/2025,Ibadan,Salt,230,145413.27
+6/16/2025,Ibadan,Seasoning,336,141768.16
+6/17/2025,Kano,Salt,117,138242.96
+6/18/2025,Lagos,Salt,139,139938.72
+6/19/2025,Lagos,Seasoning,120,139271.55
+6/20/2025,Ibadan,Seasoning,498,138164.35
+6/21/2025,Abuja,Seasoning,324,173797.08
+6/22/2025,Ibadan,Tomato Paste,454,123634.08
+6/23/2025,Lagos,Seasoning,381,131763.15
+6/24/2025,Kano,Tomato Paste,107,110414.83
+6/25/2025,Ibadan,Salt,199,185387.07
+6/26/2025,Lagos,Tomato Paste,339,130087.43
+6/27/2025,Ibadan,Seasoning,186,166519.38
+6/28/2025,Abuja,Salt,397,161882.97
+6/29/2025,Ibadan,Salt,113,182970.97
+6/30/2025,Ibadan,Salt,433,144749.58
+7/1/2025,Lagos,Tomato Paste,101,126311.51
+7/2/2025,Lagos,Seasoning,474,111106.25
+7/3/2025,Lagos,Salt,392,80384.11
+7/4/2025,Ibadan,Salt,424,154033.83
+7/5/2025,Abuja,Salt,140,169386.81
+7/6/2025,Kano,Tomato Paste,417,161792.2
+7/7/2025,Kano,Tomato Paste,415,111755.89
+7/8/2025,Lagos,Seasoning,480,175970.65
+7/9/2025,Lagos,Tomato Paste,210,132544.6
+7/10/2025,Ibadan,Salt,113,127327.41
+7/11/2025,Kano,Seasoning,330,131984.19
+7/12/2025,Lagos,Salt,183,151960.22
+7/13/2025,Abuja,Salt,229,112882.46
+7/14/2025,Abuja,Tomato Paste,330,149074.1
+7/15/2025,Lagos,Seasoning,425,160736.21
+7/16/2025,Lagos,Tomato Paste,244,177683.1
+7/17/2025,Kano,Tomato Paste,478,154398.92
+7/18/2025,Kano,Seasoning,444,116509.29
+7/19/2025,Ibadan,Salt,127,153722.26
+7/20/2025,Kano,Salt,165,123493.54
+7/21/2025,Abuja,Seasoning,262,122051.37
+7/22/2025,Abuja,Salt,328,115932.41
+7/23/2025,Lagos,Seasoning,360,102218.66
+7/24/2025,Kano,Seasoning,263,135820.92
+7/25/2025,Ibadan,Tomato Paste,400,178222.22
+7/26/2025,Abuja,Seasoning,402,206412.1
+7/27/2025,Abuja,Tomato Paste,386,135660.37
+7/28/2025,Ibadan,Salt,494,177152.64
+7/29/2025,Ibadan,Salt,109,140135.44
+7/30/2025,Abuja,Salt,294,108731.61
+7/31/2025,Abuja,Salt,217,167523.56
+8/1/2025,Ibadan,Tomato Paste,369,155870.35
+8/2/2025,Abuja,Salt,179,195450.49
+8/3/2025,Lagos,Seasoning,192,111633.04
+8/4/2025,Lagos,Seasoning,365,219900.82
+8/5/2025,Ibadan,Seasoning,431,189792.93
+8/6/2025,Kano,Tomato Paste,449,149551.91
+8/7/2025,Ibadan,Salt,460,142534.06
+8/8/2025,Ibadan,Salt,356,132104.75
+8/9/2025,Kano,Salt,232,152743.32
+8/10/2025,Kano,Tomato Paste,375,145401.6
+8/11/2025,Kano,Seasoning,363,162844.89
+8/12/2025,Lagos,Seasoning,270,142640.83
+8/13/2025,Abuja,Salt,100,185374.09
+8/14/2025,Lagos,Seasoning,412,153126.15
+8/15/2025,Abuja,Seasoning,163,143579.57
+8/16/2025,Lagos,Tomato Paste,473,175607.16
+8/17/2025,Abuja,Tomato Paste,383,109436.91
+8/18/2025,Lagos,Tomato Paste,220,158524.71
+8/19/2025,Kano,Tomato Paste,206,150639.28
+8/20/2025,Ibadan,Salt,274,114728.74
+8/21/2025,Lagos,Tomato Paste,303,107287.42
+8/22/2025,Abuja,Seasoning,264,175258.63
+8/23/2025,Kano,Salt,404,174069.77
+8/24/2025,Lagos,Seasoning,219,154313.96
+8/25/2025,Lagos,Seasoning,143,192916.44
+8/26/2025,Kano,Seasoning,411,161024.2
+8/27/2025,Lagos,Tomato Paste,255,181245.13
+8/28/2025,Ibadan,Tomato Paste,466,160508.11
+8/29/2025,Lagos,Salt,306,143104.76
+8/30/2025,Ibadan,Salt,489,123561.72
+8/31/2025,Ibadan,Tomato Paste,207,134914.09
+9/1/2025,Kano,Seasoning,350,143571.94
+9/2/2025,Lagos,Salt,469,184078.83
+9/3/2025,Kano,Tomato Paste,433,169247.99
+9/4/2025,Lagos,Tomato Paste,229,158257.98
+9/5/2025,Lagos,Tomato Paste,392,171750.25
+9/6/2025,Abuja,Seasoning,119,163184.59
+9/7/2025,Lagos,Tomato Paste,381,156548.44
+9/8/2025,Kano,Tomato Paste,384,112533.51
+9/9/2025,Ibadan,Tomato Paste,100,178478.94
+9/10/2025,Lagos,Tomato Paste,218,138537.2
+9/11/2025,Abuja,Salt,134,177213.51
+9/12/2025,Kano,Salt,297,179630.26
+9/13/2025,Lagos,Tomato Paste,344,133249.02
+9/14/2025,Kano,Seasoning,158,173742.9
+9/15/2025,Abuja,Salt,424,140975.31
+9/16/2025,Abuja,Tomato Paste,260,141124.19
+9/17/2025,Kano,Salt,278,156436.83
+9/18/2025,Lagos,Salt,305,157111.81
+9/19/2025,Ibadan,Seasoning,111,150963.79
+9/20/2025,Abuja,Tomato Paste,375,116642.8
+9/21/2025,Lagos,Tomato Paste,280,146963.83
+9/22/2025,Lagos,Seasoning,341,206961.97
+9/23/2025,Ibadan,Seasoning,315,80399.89
+9/24/2025,Abuja,Tomato Paste,350,171743.51
+9/25/2025,Abuja,Tomato Paste,398,176428.12
+9/26/2025,Lagos,Seasoning,225,116041.31
+9/27/2025,Lagos,Salt,316,138264.03
+9/28/2025,Ibadan,Salt,405,124982.07
+9/29/2025,Ibadan,Seasoning,384,196349.13
+9/30/2025,Abuja,Salt,284,177575.63
+10/1/2025,Kano,Seasoning,138,178785.63
+10/2/2025,Abuja,Salt,322,153016.18
+10/3/2025,Lagos,Salt,283,182802.3
+10/4/2025,Abuja,Tomato Paste,277,149794.09
+10/5/2025,Kano,Tomato Paste,393,183978.94
+10/6/2025,Ibadan,Salt,439,146282.59
+10/7/2025,Kano,Salt,250,133018.95
+10/8/2025,Kano,Tomato Paste,483,195273.76
+10/9/2025,Kano,Tomato Paste,225,149478.78
+10/10/2025,Ibadan,Tomato Paste,400,127530
+10/11/2025,Kano,Seasoning,407,127259.15
+10/12/2025,Kano,Salt,435,127335.53
+10/13/2025,Kano,Tomato Paste,333,171111.06
+10/14/2025,Lagos,Salt,479,147528.43
+10/15/2025,Kano,Seasoning,474,207448.97
+10/16/2025,Ibadan,Seasoning,107,179654.45
+10/17/2025,Kano,Tomato Paste,440,156428.45
+10/18/2025,Kano,Seasoning,228,185097.44
+10/19/2025,Ibadan,Salt,363,137612.32
+10/20/2025,Kano,Tomato Paste,256,103630.35
+10/21/2025,Ibadan,Salt,451,125260.42
+10/22/2025,Kano,Salt,457,153680.2
+10/23/2025,Ibadan,Seasoning,104,144436.46
+10/24/2025,Kano,Seasoning,185,170610.38
+10/25/2025,Kano,Seasoning,274,146884.66
+10/26/2025,Lagos,Seasoning,389,168700.87
+10/27/2025,Lagos,Seasoning,292,187524.29
+10/28/2025,Kano,Tomato Paste,410,146807.6
+10/29/2025,Kano,Salt,218,163878.63
+10/30/2025,Abuja,Salt,317,106130.33
+10/31/2025,Ibadan,Salt,213,146902.65
+11/1/2025,Abuja,Salt,244,119201.05
+11/2/2025,Lagos,Seasoning,125,153630.67
+11/3/2025,Lagos,Salt,235,155899.99
+11/4/2025,Lagos,Tomato Paste,402,155816.91
+11/5/2025,Lagos,Tomato Paste,331,137996.94
+11/6/2025,Kano,Salt,468,207461.72
+11/7/2025,Lagos,Salt,175,118299.46
+11/8/2025,Kano,Tomato Paste,427,116771.35
+11/9/2025,Kano,Tomato Paste,444,191374.46
+11/10/2025,Lagos,Seasoning,401,132393.02
+11/11/2025,Lagos,Tomato Paste,388,126382.73
+11/12/2025,Ibadan,Seasoning,100,207572.8
+11/13/2025,Abuja,Seasoning,246,174643.07
+11/14/2025,Lagos,Seasoning,386,135138.39
+11/15/2025,Ibadan,Seasoning,241,155437.7
+11/16/2025,Ibadan,Seasoning,152,198646.78
+11/17/2025,Abuja,Salt,403,167290.52
+11/18/2025,Kano,Tomato Paste,168,182153.71
+11/19/2025,Lagos,Seasoning,460,170120.08
+11/20/2025,Abuja,Tomato Paste,189,173256.33
+11/21/2025,Lagos,Tomato Paste,319,150993.54
+11/22/2025,Ibadan,Seasoning,291,150283.71
+11/23/2025,Ibadan,Salt,162,156676.26
+11/24/2025,Kano,Seasoning,172,168361.32
+11/25/2025,Ibadan,Salt,260,142917.12
+11/26/2025,Ibadan,Tomato Paste,268,153051.35
+11/27/2025,Abuja,Salt,188,142241.36
+11/28/2025,Lagos,Salt,275,152892.12
+11/29/2025,Lagos,Salt,368,118725.09
+11/30/2025,Abuja,Tomato Paste,172,215149.44
+12/1/2025,Kano,Tomato Paste,344,131676.5
+12/2/2025,Lagos,Salt,176,140963.48
+12/3/2025,Ibadan,Salt,258,129518.39
+12/4/2025,Lagos,Seasoning,423,165392.72
+12/5/2025,Ibadan,Salt,197,145099.93
+12/6/2025,Kano,Seasoning,480,125904.81
+12/7/2025,Abuja,Salt,201,166422.08
+12/8/2025,Lagos,Seasoning,231,169791.23
+12/9/2025,Abuja,Tomato Paste,201,148328.09
+12/10/2025,Lagos,Salt,118,133409.35
+12/11/2025,Ibadan,Salt,181,204776.65
+12/12/2025,Abuja,Salt,496,158501.69
+12/13/2025,Lagos,Salt,378,118148.28
+12/14/2025,Ibadan,Seasoning,438,185351.01
+12/15/2025,Abuja,Salt,464,128605.63
+12/16/2025,Abuja,Tomato Paste,430,218546.96
+12/17/2025,Lagos,Tomato Paste,228,151991.45
+12/18/2025,Lagos,Salt,443,175332.9
+12/19/2025,Lagos,Tomato Paste,409,97999.56
+12/20/2025,Ibadan,Salt,188,117896.48
+12/21/2025,Lagos,Salt,312,183346.49
+12/22/2025,Abuja,Tomato Paste,242,157945.38
+12/23/2025,Abuja,Salt,164,201059.91
+12/24/2025,Lagos,Tomato Paste,175,162129.38
+12/25/2025,Lagos,Seasoning,298,153632.41
+12/26/2025,Kano,Salt,242,192839.35
+12/27/2025,Abuja,Seasoning,415,175253.42
+12/28/2025,Ibadan,Tomato Paste,192,145093.47
+12/29/2025,Kano,Seasoning,404,122647.4
+12/30/2025,Lagos,Seasoning,323,90709.61
+12/31/2025,Lagos,Tomato Paste,390,139058.36
+1/1/2026,Abuja,Seasoning,201,120341.62
+1/2/2026,Lagos,Seasoning,366,214942.62
+1/3/2026,Ibadan,Tomato Paste,454,133740.73
+1/4/2026,Abuja,Seasoning,209,133057.27
+1/5/2026,Lagos,Tomato Paste,429,111968.88
+1/6/2026,Abuja,Seasoning,364,143342.07
+1/7/2026,Lagos,Tomato Paste,102,133386.63
+1/8/2026,Lagos,Tomato Paste,184,193443.24
+1/9/2026,Lagos,Seasoning,381,154211.9
+1/10/2026,Ibadan,Seasoning,427,149778.4
+1/11/2026,Ibadan,Seasoning,403,146633.18
+1/12/2026,Abuja,Salt,216,169654.37
+1/13/2026,Lagos,Salt,320,138691.8
+1/14/2026,Lagos,Salt,253,166680.15
+1/15/2026,Ibadan,Tomato Paste,252,190349.25
+1/16/2026,Lagos,Seasoning,111,161501.88
+1/17/2026,Ibadan,Tomato Paste,232,143756.72
+1/18/2026,Lagos,Salt,403,126163.52
+1/19/2026,Abuja,Seasoning,392,143121.9
+1/20/2026,Lagos,Tomato Paste,399,164076.97
+1/21/2026,Lagos,Seasoning,327,111686.82
+1/22/2026,Kano,Tomato Paste,370,170788.57
+1/23/2026,Ibadan,Seasoning,142,155190.32
+1/24/2026,Lagos,Salt,442,146270.27
+1/25/2026,Lagos,Salt,425,133514.66
+1/26/2026,Kano,Seasoning,401,138090.56
+1/27/2026,Kano,Tomato Paste,463,164932.65
+1/28/2026,Ibadan,Salt,478,146794.71
+1/29/2026,Kano,Salt,120,137471.5
+1/30/2026,Abuja,Salt,206,161714.09
+1/31/2026,Kano,Seasoning,435,162704.74
+2/1/2026,Abuja,Seasoning,402,118770.62
+2/2/2026,Ibadan,Tomato Paste,216,164287.02
+2/3/2026,Ibadan,Tomato Paste,223,212542.46
+2/4/2026,Ibadan,Tomato Paste,498,161740.52
+2/5/2026,Ibadan,Seasoning,380,107524.82
+2/6/2026,Ibadan,Seasoning,391,154434.38
+2/7/2026,Abuja,Tomato Paste,302,104229.62
+2/8/2026,Abuja,Tomato Paste,150,229184.29
+2/9/2026,Ibadan,Seasoning,370,205891.87
+2/10/2026,Kano,Tomato Paste,423,133351.54
+2/11/2026,Lagos,Salt,376,93858.32
+2/12/2026,Ibadan,Seasoning,240,128040.72
+2/13/2026,Kano,Tomato Paste,374,145475.23
+2/14/2026,Lagos,Seasoning,389,105953.41
+2/15/2026,Ibadan,Salt,433,148274.44
+2/16/2026,Ibadan,Seasoning,480,145310.53
+2/17/2026,Abuja,Seasoning,472,153128.87
+2/18/2026,Lagos,Seasoning,151,155741.13
+2/19/2026,Lagos,Seasoning,126,125859.56
+2/20/2026,Kano,Salt,256,128664.65
+2/21/2026,Abuja,Seasoning,338,151139.8
+2/22/2026,Abuja,Seasoning,255,134225.2
+2/23/2026,Abuja,Tomato Paste,390,172687.37
+2/24/2026,Abuja,Seasoning,235,150897.36
+2/25/2026,Lagos,Tomato Paste,243,196625.08
+2/26/2026,Lagos,Salt,205,170512.06
+2/27/2026,Ibadan,Salt,257,177592.85
+2/28/2026,Ibadan,Salt,245,153314.15
+3/1/2026,Abuja,Salt,101,153934.04
+3/2/2026,Abuja,Tomato Paste,176,193283.01
+3/3/2026,Abuja,Seasoning,231,140542.68
+3/4/2026,Ibadan,Salt,189,163669.48
+3/5/2026,Kano,Seasoning,444,143344.06
+3/6/2026,Kano,Tomato Paste,449,143284.1
+3/7/2026,Ibadan,Tomato Paste,362,120777.59
+3/8/2026,Ibadan,Tomato Paste,450,131437.14
+3/9/2026,Ibadan,Salt,207,126793.26
+3/10/2026,Ibadan,Seasoning,173,164859.22
+3/11/2026,Ibadan,Seasoning,138,176005.15
+3/12/2026,Ibadan,Seasoning,496,147631.17
+3/13/2026,Abuja,Tomato Paste,258,155740.7
+3/14/2026,Abuja,Salt,170,146188.22
+3/15/2026,Abuja,Tomato Paste,411,129730.6
+3/16/2026,Abuja,Tomato Paste,340,171556.58
+3/17/2026,Ibadan,Seasoning,397,166313.37
+3/18/2026,Kano,Tomato Paste,135,102686.35
+3/19/2026,Lagos,Seasoning,183,142922.27
+3/20/2026,Ibadan,Salt,473,127949.32
+3/21/2026,Lagos,Seasoning,362,140226.54
+3/22/2026,Kano,Salt,409,133239.21
+3/23/2026,Abuja,Seasoning,484,148839.49
+3/24/2026,Kano,Tomato Paste,271,141752.13
+3/25/2026,Ibadan,Tomato Paste,475,141221.48
+3/26/2026,Abuja,Salt,272,177684.71
+3/27/2026,Ibadan,Salt,461,163929.47
+3/28/2026,Abuja,Salt,146,132402.63
+3/29/2026,Lagos,Seasoning,478,136111.33
+3/30/2026,Lagos,Seasoning,240,162294.83
+3/31/2026,Lagos,Salt,474,162260.49
+4/1/2026,Kano,Tomato Paste,217,134905.49
+4/2/2026,Ibadan,Seasoning,376,144150.23
+4/3/2026,Kano,Seasoning,313,196170.15
+4/4/2026,Lagos,Seasoning,319,135336.3
+4/5/2026,Ibadan,Salt,492,197770.11
+4/6/2026,Lagos,Salt,125,177591.67
+4/7/2026,Kano,Salt,108,193135.41
+4/8/2026,Kano,Salt,370,134273.2
+4/9/2026,Kano,Salt,109,145786.1
+4/10/2026,Lagos,Tomato Paste,477,138770.9
+4/11/2026,Ibadan,Tomato Paste,220,178168.83
+4/12/2026,Ibadan,Salt,224,135807.91
+4/13/2026,Lagos,Seasoning,269,168280.39
+4/14/2026,Ibadan,Salt,171,166957.49
+4/15/2026,Lagos,Tomato Paste,251,148799.26
+4/16/2026,Ibadan,Tomato Paste,307,182466.49
+4/17/2026,Abuja,Seasoning,148,152692
+4/18/2026,Abuja,Tomato Paste,253,170852.14
+4/19/2026,Kano,Salt,446,137632.42
+4/20/2026,Abuja,Seasoning,392,131914.08
+4/21/2026,Abuja,Salt,167,168278.64
+4/22/2026,Abuja,Salt,149,160771.01
+4/23/2026,Lagos,Seasoning,251,156082.69
+4/24/2026,Abuja,Salt,118,141407.79
+4/25/2026,Abuja,Tomato Paste,199,188730.24
+4/26/2026,Kano,Salt,159,122085.35
+4/27/2026,Abuja,Seasoning,266,120716.42
+4/28/2026,Abuja,Seasoning,301,173554.16
+4/29/2026,Ibadan,Seasoning,444,171502.41
+4/30/2026,Kano,Salt,245,158844.07
+5/1/2026,Kano,Seasoning,263,142801.19
+5/2/2026,Kano,Seasoning,341,162560.55
+5/3/2026,Kano,Salt,168,193020.76
+5/4/2026,Kano,Tomato Paste,274,212888.66
+5/5/2026,Kano,Salt,148,108589.66
+5/6/2026,Lagos,Seasoning,207,139527
+5/7/2026,Abuja,Seasoning,325,137955.67
+5/8/2026,Kano,Salt,260,190662.99
+5/9/2026,Abuja,Tomato Paste,218,87967.63
+5/10/2026,Abuja,Seasoning,248,162845.88
+5/11/2026,Lagos,Seasoning,249,143579.74
+5/12/2026,Kano,Seasoning,392,190952.82
+5/13/2026,Ibadan,Salt,242,187525.97
+5/14/2026,Lagos,Seasoning,259,159137.67
+5/15/2026,Ibadan,Tomato Paste,110,110506.92
